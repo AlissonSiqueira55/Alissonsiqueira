@@ -12,6 +12,7 @@
 
 ![Alisson Siqueira GitHub stats](https://github-readme-stats.vercel.app/api?username=AlissonSiqueira55&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ## tecnologias que uso!
 
@@ -26,4 +27,3 @@
 Estou estudando Analise e Desenvolvimedo de Sistemas sou entusiasta da tecnologia ,tenho conhecimento em html, css e me aprofundando no javascript, na parte de automação tenho conhecimento em Java, Selenium e WebDriver sou muito focado e busco sempre aumentar o meu conhecimento.
 
 ### Email para contatos; alissonguilherme192@gmail.com
-
